@@ -1,0 +1,17 @@
+body {
+            font-family: Arial, sans-serif;
+        }
+        .calculator {
+            width: 200px;
+            margin: 0 auto;
+        }
+        input[type="text"] {
+            width: 100%;
+            padding: 10px;
+            margin: 5px 0;
+        }
+        button {
+            width: 48px;
+            height: 48px;
+            font-size: 20px;
+        }
